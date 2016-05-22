@@ -9,7 +9,6 @@ h1 {
 	background-color: 	#ff5b5b;
 	border: solid black 2px;
 	margin: 50px;
-
 }
 
 footer {
@@ -19,3 +18,9 @@ footer {
 	position: fixed;
 	margin-left: 25%;
 }
+
+#bg-picture {
+	color: white;
+	background-image: url(wood_texture.jpg);
+}
+
