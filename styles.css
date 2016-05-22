@@ -1,6 +1,7 @@
 body {
 	background: #63d4cc;
 	font-family: helvetica;
+	position: relative;
 }
 
 h1 {
@@ -9,4 +10,12 @@ h1 {
 	border: solid black 2px;
 	margin: 50px;
 
+}
+
+footer {
+	font-size: 12px;
+	font-family: helvetica;
+	font-style: oblique;
+	position: fixed;
+	margin-left: 25%;
 }
