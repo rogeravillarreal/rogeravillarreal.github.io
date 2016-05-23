@@ -2,13 +2,17 @@ body {
 	background: #63d4cc;
 	font-family: helvetica;
 	position: relative;
+	display: block;
+	vertical-align: top;
+	min-width: 255px;
+	padding: 5px;
 }
 
 h1 {
 	color: black;
 	background-color: 	#ff5b5b;
 	border: solid black 2px;
-	margin: 50px;
+	padding: 5px;
 }
 
 footer {
@@ -20,8 +24,10 @@ footer {
 }
 
 #bg-picture {
+	font-weight: lighter;
 	color: white;
 	background-image: url(wood_texture.jpg);
+	padding: 10px;
 }
 
 .bold-text {
